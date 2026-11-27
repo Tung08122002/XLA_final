@@ -1,0 +1,6 @@
+filter,zero_bytes,sum_abs
+None,0,1527
+Sub,36,1572
+Up,50,605
+Average,30,3179
+Paeth,54,729

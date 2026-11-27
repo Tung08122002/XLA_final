@@ -1,0 +1,44 @@
+{
+  "date": "2026-11-25T23:30:26",
+  "cpu_model": "Intel64 Family 6 Model 186 Stepping 3, GenuineIntel",
+  "cpu_count_logical": 12,
+  "cpu_usable_by_process": 12,
+  "python": "3.13.12",
+  "platform": "Windows-11-10.0.26200-SP0",
+  "numpy": "2.5.3",
+  "pillow": "12.3.0",
+  "libjpeg_turbo": "3.1.4.1",
+  "libjpeg": "8.0",
+  "libwebp": "1.6.0",
+  "zlib": "1.3.1.zlib-ng",
+  "repeats": 9,
+  "warmup_runs": 1,
+  "seed": 2026,
+  "loadavg_start": [
+    NaN,
+    NaN,
+    NaN
+  ],
+  "noise_probe_before": {
+    "median_ms": 1.42809993121773,
+    "min_ms": 1.3444999931380153,
+    "max_ms": 2.5384000036865473,
+    "iqr_over_median_pct": 11.756880189870865,
+    "max_over_min": 1.887988112043059,
+    "loadavg_1min": NaN
+  },
+  "noise_probe_after": {
+    "median_ms": 8.286900003440678,
+    "min_ms": 6.169000058434904,
+    "max_ms": 10.597400018014014,
+    "iqr_over_median_pct": 19.87957000799998,
+    "max_over_min": 1.7178472876692776,
+    "loadavg_1min": NaN
+  },
+  "loadavg_end": [
+    NaN,
+    NaN,
+    NaN
+  ],
+  "total_measure_seconds": 534.9
+}

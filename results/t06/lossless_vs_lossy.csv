@@ -1,0 +1,21 @@
+image,group,w,h,png_kb,webp_lossless_kb,webp_lossless_exact,lossy_JPEG_420_ssim099_kb,lossy_JPEG_444_ssim099_kb,lossy_WebP_lossy_ssim099_kb,webp_ll_smaller_than_JPEG_420,webp_ll_smaller_than_JPEG_444,webp_ll_smaller_than_WebP_lossy,best_lossy_ssim099_kb,best_lossy_ssim099_codec,webp_ll_smaller_than_best_lossy,png_smaller_than_best_lossy,png_smaller_than_webp_lossy,webp_ll_smaller_than_png,webp_ll_over_webp_lossy_ssim099
+G01_studio1000,G,1000,1000,98.8115,59.4805,True,22.3564,34.0225,5.05078,False,False,False,5.05078,WebP,False,False,False,True,11.7765
+G02_studio1000,G,1000,1000,93.418,56.6699,True,22.041,33.3926,4.06836,False,False,False,4.06836,WebP,False,False,False,True,13.9294
+G03_studio1000,G,1000,1000,15.1543,6.86914,True,20.4922,31.8604,3.07422,True,True,False,3.07422,WebP,False,False,False,True,2.23443
+G04_studio500_noise,G,500,500,306.259,262.381,True,,280.606,,False,True,False,280.606,JPEG 444,True,False,False,True,
+G05_studio500_noise,G,500,500,298.258,258.672,True,,273.166,,False,True,False,273.166,JPEG 444,True,False,False,True,
+G06_studio500_noise,G,500,500,297.997,259.227,True,,271.158,,False,True,False,271.158,JPEG 444,True,False,False,True,
+P01_coffee,P,500,500,377.762,291.82,True,,313.983,,False,True,False,313.983,JPEG 444,True,False,False,True,
+P02_chelsea,P,500,500,351.707,243.041,True,162.037,101.483,,False,False,False,101.483,JPEG 444,False,False,False,True,
+P03_astronaut,P,500,500,388.425,308.525,True,,329.441,,False,True,False,329.441,JPEG 444,True,False,False,True,
+P04_rocket,P,500,500,205.62,175.236,True,,183.791,,False,True,False,183.791,JPEG 444,True,False,False,True,
+P05_motorcycle,P,500,500,437.514,340.676,True,,382.813,,False,True,False,382.813,JPEG 444,True,False,False,True,
+P06_baboon,P,500,500,571.133,470.217,True,,509.257,,False,True,False,509.257,JPEG 444,True,False,False,True,
+P07_fruits,P,500,500,385.374,304.926,True,,313.583,,False,True,False,313.583,JPEG 444,True,False,False,True,
+T01_card1000,T,1000,1000,306.329,217.32,True,278.961,209.545,,True,False,False,209.545,JPEG 444,False,False,False,True,
+T02_card1000,T,1000,1000,195.263,142.406,True,,126.654,,False,False,False,126.654,JPEG 444,False,False,False,True,
+T03_card1000,T,1000,1000,290.611,210.334,True,263.612,149.016,113.551,True,False,False,113.551,WebP,False,False,False,True,1.85233
+T04_card1000,T,1000,1000,294.716,188.137,True,256.432,145.106,85.959,True,False,False,85.959,WebP,False,False,False,True,2.18868
+T05_card500,T,500,500,104.915,71.7363,True,,84.4346,,False,True,False,84.4346,JPEG 444,True,False,False,True,
+T06_card500,T,500,500,90.0215,60.3145,True,,76.4307,,False,True,False,76.4307,JPEG 444,True,False,False,True,
+T07_card500,T,500,500,65.8516,44.2637,True,,65.8291,,False,True,False,65.8291,JPEG 444,True,False,False,True,

@@ -1,0 +1,13 @@
+scope,key,n,spearman
+toàn bộ,ALL,1200,0.840913
+nhóm,G,360,0.902304
+nhóm,P,420,0.905474
+nhóm,T,420,0.976654
+codec,JPEG 4:2:0,400,0.850436
+codec,JPEG 4:4:4,400,0.87824
+codec,WebP lossy,400,0.784456
+trong ảnh (TB 20 ảnh),ALL,20,0.989108
+trong ảnh (min),G04_studio500_noise,1,0.958322
+trong ảnh (TB theo nhóm),G,6,0.980513
+trong ảnh (TB theo nhóm),P,7,0.995546
+trong ảnh (TB theo nhóm),T,7,0.990037

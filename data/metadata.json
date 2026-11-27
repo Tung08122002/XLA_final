@@ -1,0 +1,162 @@
+{
+ "P01_coffee": {
+  "group": "P",
+  "source": "scikit-image data.coffee",
+  "size": [
+   500,
+   500
+  ]
+ },
+ "P02_chelsea": {
+  "group": "P",
+  "source": "scikit-image data.chelsea",
+  "size": [
+   500,
+   500
+  ]
+ },
+ "P03_astronaut": {
+  "group": "P",
+  "source": "scikit-image data.astronaut",
+  "size": [
+   500,
+   500
+  ]
+ },
+ "P04_rocket": {
+  "group": "P",
+  "source": "scikit-image data.rocket",
+  "size": [
+   500,
+   500
+  ]
+ },
+ "P05_motorcycle": {
+  "group": "P",
+  "source": "scikit-image data.motorcycle",
+  "size": [
+   500,
+   500
+  ]
+ },
+ "P06_baboon": {
+  "group": "P",
+  "source": "OpenCV samples/data/baboon.jpg (nguồn JPEG, đã thu nhỏ)",
+  "size": [
+   500,
+   500
+  ]
+ },
+ "P07_fruits": {
+  "group": "P",
+  "source": "OpenCV samples/data/fruits.jpg (nguồn JPEG, đã thu nhỏ)",
+  "size": [
+   500,
+   500
+  ]
+ },
+ "T01_card1000": {
+  "group": "T",
+  "source": "tổng hợp (thẻ sản phẩm có chữ tiếng Việt, DejaVu Sans)",
+  "size": [
+   1000,
+   1000
+  ]
+ },
+ "T02_card1000": {
+  "group": "T",
+  "source": "tổng hợp (thẻ sản phẩm có chữ tiếng Việt, DejaVu Sans)",
+  "size": [
+   1000,
+   1000
+  ]
+ },
+ "T03_card1000": {
+  "group": "T",
+  "source": "tổng hợp (thẻ sản phẩm có chữ tiếng Việt, DejaVu Sans)",
+  "size": [
+   1000,
+   1000
+  ]
+ },
+ "T04_card1000": {
+  "group": "T",
+  "source": "tổng hợp (thẻ sản phẩm có chữ tiếng Việt, DejaVu Sans)",
+  "size": [
+   1000,
+   1000
+  ]
+ },
+ "T05_card500": {
+  "group": "T",
+  "source": "tổng hợp (thẻ sản phẩm có chữ tiếng Việt, DejaVu Sans)",
+  "size": [
+   500,
+   500
+  ]
+ },
+ "T06_card500": {
+  "group": "T",
+  "source": "tổng hợp (thẻ sản phẩm có chữ tiếng Việt, DejaVu Sans)",
+  "size": [
+   500,
+   500
+  ]
+ },
+ "T07_card500": {
+  "group": "T",
+  "source": "tổng hợp (thẻ sản phẩm có chữ tiếng Việt, DejaVu Sans)",
+  "size": [
+   500,
+   500
+  ]
+ },
+ "G01_studio1000": {
+  "group": "G",
+  "source": "tổng hợp (ảnh studio nền gradient, sạch)",
+  "size": [
+   1000,
+   1000
+  ]
+ },
+ "G02_studio1000": {
+  "group": "G",
+  "source": "tổng hợp (ảnh studio nền gradient, sạch)",
+  "size": [
+   1000,
+   1000
+  ]
+ },
+ "G03_studio1000": {
+  "group": "G",
+  "source": "tổng hợp (ảnh studio nền gradient, sạch)",
+  "size": [
+   1000,
+   1000
+  ]
+ },
+ "G04_studio500_noise": {
+  "group": "G",
+  "source": "tổng hợp (ảnh studio nền gradient, nhiễu cảm biến σ=1,5)",
+  "size": [
+   500,
+   500
+  ]
+ },
+ "G05_studio500_noise": {
+  "group": "G",
+  "source": "tổng hợp (ảnh studio nền gradient, nhiễu cảm biến σ=1,5)",
+  "size": [
+   500,
+   500
+  ]
+ },
+ "G06_studio500_noise": {
+  "group": "G",
+  "source": "tổng hợp (ảnh studio nền gradient, nhiễu cảm biến σ=1,5)",
+  "size": [
+   500,
+   500
+  ]
+ }
+}

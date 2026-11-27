@@ -1,0 +1,10 @@
+# Phiên bản đã dùng để tạo kết quả (pip show, Python 3.13)
+pillow==12.3.0
+numpy==2.5.3
+scipy==1.18.1
+scikit-image==0.26.0
+opencv-python==5.0.0.93
+matplotlib==3.11.2
+pandas==3.0.5
+pytesseract==0.3.13
+# Ngoài pip: chương trình tesseract-ocr 5.x + gói ngôn ngữ tiếng Việt (vie), xem README.md

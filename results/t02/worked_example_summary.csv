@@ -1,0 +1,3 @@
+quality,S,nonzero,nonzero_ac,zeros,rle_pairs,mse,psnr_db,ssim_block
+50,100,26,25,38,25,43.922,31.7,0.9977
+90,20,38,37,26,37,6.062,40.3,0.9997
